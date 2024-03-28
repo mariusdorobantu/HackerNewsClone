@@ -5,7 +5,7 @@ About:
 - is a copy of https://news.ycombinator.com/ ( Hacker News )
 - this version is not a 100% copy of it ( without footer, menu: jobs, past and submit, login )
 
-Some of skills learned/ tested (): 
+Some of learned/ tested tskills (): 
 - modular js
 - async js 
 - constructor functions
