@@ -15,6 +15,7 @@ Some of skills learned/ tested ():
 - side effects
 - project uploaded with git
 
+
 Future features to implement:
 - { all the missing features from the original one }
 - Mongo database
