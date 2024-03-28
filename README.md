@@ -20,3 +20,4 @@ Future features to implement:
 - { all the missing features from the original one }
 - Mongo database
 
+@ https://www.linkedin.com/in/marius-dorobantu-07986a129/
